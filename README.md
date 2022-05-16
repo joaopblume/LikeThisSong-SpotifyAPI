@@ -1,7 +1,9 @@
 # LikeThisSong-SpotifyAPI
 
 ## What it does?
-### It adds (if there is a song playing) the current song to a playlist, with just a press in the "home" key.  
+### It adds (if there is a song playing) the current song to a playlist, with just a press in the "home" key, using the Spotify API.  
+### If you press the "end" key it stops listen to key events.
+### Creates a log file.
   
 ## What I've learned?
 ### OAuth 2.0 authentication
