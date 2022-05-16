@@ -9,7 +9,11 @@
 ### OAuth 2.0 authentication
 ### Observer Pattern
 ### Manipulate datetime format  
-  
+
+## Dependencies
+- keyboard module
+- secrets module
+
 ## Requirements
 ### 1 - Get the authorization code:
 - Create an app into spotify api  
